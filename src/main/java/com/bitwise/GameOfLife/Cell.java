@@ -1,5 +1,9 @@
 package main.java.com.bitwise.GameOfLife;
 
+/**
+ * @author Harsimar
+ *
+ */
 public class Cell {
 	private final int x;
 	private final int y;
